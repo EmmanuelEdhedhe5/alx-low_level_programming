@@ -20,7 +20,7 @@ int main(void)
 			printf("Fizz");
 		else
 			printf("%i", n);
-		
+
 		if (n < 100)
 			printf(" ");
 		else
