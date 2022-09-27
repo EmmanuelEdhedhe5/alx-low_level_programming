@@ -7,8 +7,6 @@
  * @n: max bytes to use
  * Return: s
  */
-
-
 char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int i;
